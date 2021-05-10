@@ -22,6 +22,8 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 
 ### CONCLUSION:
 
+- [X] Data Science requirements
+
 1. **COMPANIES**: 
 
   index |      company	                    |   position 
@@ -35,3 +37,29 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 |6      | 	KPMG                            | 	 66       |
 
 (![image](https://user-images.githubusercontent.com/81169091/117686883-94e37c00-b1b7-11eb-82c7-d6ba7e60b341.png)
+
+2. **QUALIFICATION**
+
+  index |      QUALIFICATION	      |  counts 
+|-------|--------------------------|------------|
+|0      |  	B.Sc	                  |   6        |
+|1      |	  M.Sc                   |  	17       |
+|2      |   Bachelors	             |   155      |
+|3	     |   Masters	               |   322      |
+|4      |	  P.hD                   | 	 1270     |
+
+![image](https://user-images.githubusercontent.com/81169091/117721248-e43da280-b1df-11eb-86ff-33d069e2b5c7.png)
+
+3. **TOOLS**
+
+  index |      TOOLS	      |  counts 
+|-------|------------------|------------|
+|0      |  	Python	        |   2021     |
+|1      |	  git            |  	799      |
+|2      |   R	             |   5071     |
+|3	     |   SQL	           |   1448     |
+|4      |	  Tensor         | 	 279      |
+
+![image](https://user-images.githubusercontent.com/81169091/117721575-531afb80-b1e0-11eb-8595-93c7ffaf6e69.png)
+ 
+
