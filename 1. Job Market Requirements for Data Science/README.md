@@ -39,7 +39,7 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 |6      | 	KPMG                            | 	 66       |
 
 - [X] The Qualification requirements for Data Science :
-- 
+
 2. **QUALIFICATION**
 
   index |      QUALIFICATION	      |  counts 
