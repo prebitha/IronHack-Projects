@@ -20,4 +20,17 @@ we need to find the requirements for the Data Science roles.
 ### JUPYTER NOTEBOOK WITH PYTHON CODE:
 you can find the python codes used in [here:](https://github.com/prebitha/IronHack-Projects/blob/main/1.%20Job%20Market%20Requirements%20for%20Data%20Science/job%20market%20for%20data%20scientist.ipynb)
 
-![image](![image](https://user-images.githubusercontent.com/81169091/117686883-94e37c00-b1b7-11eb-82c7-d6ba7e60b341.png)
+### CONCLUSION:
+
+1. **COMPANIES**: 
+| index |      company	                    |   position |
+|-------|----------------------------------|------------|
+|0      |  	Amazon.com	                    |   357      |
+|1      |	Ball Aerospace                   |  	187      |
+|2      |  Microsoft	                      |   137      |
+|3	     |  Google	                         |   134      |
+|4      |	NYU Langone Health               | 	 76       |
+|5      |	Fred Hutchinson Cancer Research C| 	 70       |
+|6      | 	KPMG                            | 	 66       |
+
+(![image](https://user-images.githubusercontent.com/81169091/117686883-94e37c00-b1b7-11eb-82c7-d6ba7e60b341.png)
