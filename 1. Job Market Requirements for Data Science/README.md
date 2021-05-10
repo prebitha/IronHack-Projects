@@ -23,7 +23,8 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 ### CONCLUSION:
 
 1. **COMPANIES**: 
-| index |      company	                    |   position |
+
+  index |      company	                    |   position 
 |-------|----------------------------------|------------|
 |0      |  	Amazon.com	                    |   357      |
 |1      |	Ball Aerospace                   |  	187      |
