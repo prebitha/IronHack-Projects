@@ -24,6 +24,8 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 
 - [X] Data Science requirements
 
+- [X] The Companies requirements for Data Science :
+
 1. **COMPANIES**: 
 
   index |      company	                    |   position 
@@ -36,7 +38,8 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 |5      |	Fred Hutchinson Cancer Research C| 	 70       |
 |6      | 	KPMG                            | 	 66       |
 
-
+- [X] The Qualification requirements for Data Science :
+- 
 2. **QUALIFICATION**
 
   index |      QUALIFICATION	      |  counts 
@@ -49,6 +52,8 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 
 ![image](https://user-images.githubusercontent.com/81169091/117721248-e43da280-b1df-11eb-86ff-33d069e2b5c7.png)
 
+- [X] The Tool requirements for Data Science :
+
 3. **TOOLS**
 
   index |      TOOLS	      |  counts 
@@ -60,6 +65,8 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 |4      |	  Tensor         | 	 279      |
 
 ![image](https://user-images.githubusercontent.com/81169091/117721575-531afb80-b1e0-11eb-8595-93c7ffaf6e69.png)
+
+- [X] The Locations requirements for Data Science :
  
 4. **LOCATIONS**
 
