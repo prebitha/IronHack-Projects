@@ -18,3 +18,4 @@ we need to find the requirements for the Data Science roles.
  - [X] we also find the state and comapny that offers more positions
 
 ### JUPYTER NOTEBOOK WITH PYTHON CODE:
+https://github.com/prebitha/IronHack-Projects/blob/main/1.%20Job%20Market%20Requirements%20for%20Data%20Science/job%20market%20for%20data%20scientist.ipynb
