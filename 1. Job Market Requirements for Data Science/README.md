@@ -36,7 +36,6 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 |5      |	Fred Hutchinson Cancer Research C| 	 70       |
 |6      | 	KPMG                            | 	 66       |
 
-(![image](https://user-images.githubusercontent.com/81169091/117686883-94e37c00-b1b7-11eb-82c7-d6ba7e60b341.png)
 
 2. **QUALIFICATION**
 
@@ -62,4 +61,7 @@ you can find the python codes used in [here:](https://github.com/prebitha/IronHa
 
 ![image](https://user-images.githubusercontent.com/81169091/117721575-531afb80-b1e0-11eb-8595-93c7ffaf6e69.png)
  
+4. **LOCATIONS**
+
+![image](https://user-images.githubusercontent.com/81169091/117721991-d2a8ca80-b1e0-11eb-999b-bdde00a67a69.png)
 
