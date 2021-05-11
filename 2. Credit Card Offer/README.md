@@ -23,6 +23,8 @@ We have a credit card dataset and we used Machine Learnings Binary Classificatio
           - [X] added two more columns, differences of the quarters.
      - [X] Dropped columns
           - [X] Average Balances
-
+     - [X] Binned the Household Size column using Q-cuts
+    
+    
 ## VISUALISATION OF THE DATA :
 The visualisation of the data was done using tableau and you can see it [here](https://public.tableau.com/profile/prebitha.staphney.abraham#!/vizhome/Data-Mid-Bootcamp-Project-Classification2_16207571376970/0?publish=yes)
