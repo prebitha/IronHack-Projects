@@ -23,7 +23,7 @@
 - [X] Machine learning model is K-means.
 
 
-    - 1.From this i will take the clusters and use it to recommend the music.
+    - 1. From this i will take the clusters and use it to recommend the music.
     - 2. The dataset i used had about 130663 song.
     - 3. scaling the dataset as well
     - 4.  Unsupervised training it to give me the clusters
