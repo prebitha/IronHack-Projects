@@ -3,15 +3,56 @@
 
 ![image](https://user-images.githubusercontent.com/81169091/119808387-5c94ab00-bee4-11eb-9347-e4cbd69fe313.png)
 
-We take a Scrape datasets from various Website
+### Objective :
 
-  1. Billboard Top 100 [website](https://www.billboard.com/charts/hot-100)
-  2. We used SPOTIPY to Scrape The Top Of the Morning.
+- [ ] 1. Webscrape Music sites
+- [ ] 2. Use music data to train a model - this will be unsurpervised
+- [ ] 3. Use the Spotipy recommender function to recommend music
+- [ ] 4. Write a Music Recommender Function
+
+### 1. Webscraping 
+
+- [X] First I webscraped the billboard top 100 
+- [X] Put the data into a DataFrame to use it for the Music recommender 
+
+### 2. Machine Learning 
+
+- [X] I got a dataset from kaggle to train the my model.
+- [X] I also only use certain features.
+- [X] Machine learning model is K-means.
+        From this i will take the clusters and use it to recommend the music.
+        The dataset i used had about 130663 song.
+        scaling the dataset as well
+        Unsupervised training it to give me the clusters
+        We have about 5 clusters
+        **validation**
+        ![kmeas](https://user-images.githubusercontent.com/81169091/119847695-7e555880-bf0b-11eb-8b54-234061a5f798.png)
+        
+- [X] Put the Dataframe back together.
+
+### 3. Spotipy Recommender
  
-I've used the dataset from kaggel to train the KN Models.
-![kmeas](https://user-images.githubusercontent.com/81169091/119845582-afcd2480-bf09-11eb-8fb7-1d0c7dd36021.png)
+- [X] using the spotipy API to get songs from Spotify
+
+
+def spotify_query(inp,offs = 0):
+   
+    #queries 10 song names to spotify api
+    tracks_query = sp.search(str(inp), limit=10, type='track', offset=offs)['tracks']['items']
+    songs = []
+    for track in tracks_query:
+        sp_song = track['name']
+        sp_artists = ", ".join([artist['name'] for artist in track['artists']])
+        sp_id = track['id']
+        songs.append((sp_song,sp_artists,sp_id))
+    return songs
+    
+  
+### 4. Music Recommender
+Now I write a function for a user to input a song and then we give them 10 different recommendations
+
+![2021-05-27 (2)](https://user-images.githubusercontent.com/81169091/119849182-b4470c80-bf0c-11eb-81bd-7b2131e22468.png)
 
 
 
 
-- [X] 
