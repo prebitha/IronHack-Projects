@@ -1,7 +1,7 @@
 
 # Credit Card Offer
 
-![image](https://user-images.githubusercontent.com/81169091/117683002-ebe75200-b1b3-11eb-9307-eabf6d520dd0.png)
+![image](https://user-images.githubusercontent.com/81169091/119857268-b6609980-bf13-11eb-84e9-9d64f5d927d1.png)
 
 This Project was completed during the mid week of the bootcamp.
 
