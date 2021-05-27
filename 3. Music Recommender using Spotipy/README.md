@@ -1,7 +1,7 @@
 
 # Music Recommender using Spotipy
 
-![image](https://user-images.githubusercontent.com/81169091/119808387-5c94ab00-bee4-11eb-9347-e4cbd69fe313.png)
+![image](https://user-images.githubusercontent.com/81169091/119850533-ed33b100-bf0d-11eb-9907-6804dd38918a.png)
 
 ### Objective :
 
@@ -53,6 +53,6 @@ Now I write a function for a user to input a song and then we give them 10 diffe
 ![2021-05-27 (2)](https://user-images.githubusercontent.com/81169091/119849182-b4470c80-bf0c-11eb-81bd-7b2131e22468.png)
 
 
-![image](https://user-images.githubusercontent.com/81169091/119850533-ed33b100-bf0d-11eb-9907-6804dd38918a.png)
+
 
 
