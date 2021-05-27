@@ -1,6 +1,8 @@
 
 # Music Recommender using Spotipy
 
+[music](https://images.unsplash.com/photo-1513829596324-4bb2800c5efb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80)
+
 We take a Scrape datasets from various Website
 
   1. Billboard Top 100 [website](https://www.billboard.com/charts/hot-100)
