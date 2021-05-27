@@ -21,6 +21,8 @@
 - [X] I got a dataset from kaggle to train the my model.
 - [X] I also only use certain features.
 - [X] Machine learning model is K-means.
+
+
        - [X]   From this i will take the clusters and use it to recommend the music.
        - [X]   The dataset i used had about 130663 song.
        - [X]   scaling the dataset as well
