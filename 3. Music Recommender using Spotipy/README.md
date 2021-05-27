@@ -1,5 +1,6 @@
 
-# Music Recommender using Spotipy
+# Music Recommender using Spotipy API
+### WEBSCRAPPING | MACHINELEARNING | API
 
 ![image](https://user-images.githubusercontent.com/81169091/119850533-ed33b100-bf0d-11eb-9907-6804dd38918a.png)
 
