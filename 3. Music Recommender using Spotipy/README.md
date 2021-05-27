@@ -30,7 +30,8 @@
     - 5.  We have about 5 clusters
     
     
-  **validation**  ![kmeas](https://user-images.githubusercontent.com/81169091/119847695-7e555880-bf0b-11eb-8b54-234061a5f798.png)
+  **validation**  
+              ![kmeas](https://user-images.githubusercontent.com/81169091/119847695-7e555880-bf0b-11eb-8b54-234061a5f798.png)
         
 - [X] Put the Dataframe back together.
 
