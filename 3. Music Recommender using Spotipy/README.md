@@ -54,6 +54,12 @@ Now I write a function for a user to input a song and then we give them 10 diffe
 ![2021-05-27 (2)](https://user-images.githubusercontent.com/81169091/119849182-b4470c80-bf0c-11eb-81bd-7b2131e22468.png)
 
 
+### CONCLUSION:
+
+My Function does have some glitches, I keep working on it and thats why you will find me updating this on a weekly basis.
+
+ok bye !!
+![image](https://user-images.githubusercontent.com/81169091/119851112-6f23da00-bf0e-11eb-8028-7824974e482f.png)
 
 
 
