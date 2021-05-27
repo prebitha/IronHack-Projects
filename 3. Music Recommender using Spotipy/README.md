@@ -9,14 +9,9 @@ We take a Scrape datasets from various Website
   2. We used SPOTIPY to Scrape The Top Of the Morning.
  
 I've used the dataset from kaggel to train the KN Models.
-
-![image](https://user-images.githubusercontent.com/81169091/117877684-24b32400-b2a5-11eb-8831-5583f5c66daa.png)
-
+![kmeas](https://user-images.githubusercontent.com/81169091/119845582-afcd2480-bf09-11eb-8fb7-1d0c7dd36021.png)
 
 
-
-
-![image](https://user-images.githubusercontent.com/81169091/117932909-3fb38180-b301-11eb-8ebe-14e554929068.png)
 
 
 - [X] 
