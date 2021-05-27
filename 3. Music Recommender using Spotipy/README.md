@@ -20,12 +20,12 @@
 - [X] I got a dataset from kaggle to train the my model.
 - [X] I also only use certain features.
 - [X] Machine learning model is K-means.
-        From this i will take the clusters and use it to recommend the music.
-        The dataset i used had about 130663 song.
-        scaling the dataset as well
-        Unsupervised training it to give me the clusters
-        We have about 5 clusters
-        **validation**
+       - [X]   From this i will take the clusters and use it to recommend the music.
+       - [X]   The dataset i used had about 130663 song.
+       - [X]   scaling the dataset as well
+       - [X]   Unsupervised training it to give me the clusters
+       - [X]   We have about 5 clusters
+       - [X]  **validation**
         ![kmeas](https://user-images.githubusercontent.com/81169091/119847695-7e555880-bf0b-11eb-8b54-234061a5f798.png)
         
 - [X] Put the Dataframe back together.
@@ -35,9 +35,8 @@
 - [X] using the spotipy API to get songs from Spotify
 
 
-def spotify_query(inp,offs = 0):
    
-    #queries 10 song names to spotify api
+    def spotify_query(inp,offs = 0):
     tracks_query = sp.search(str(inp), limit=10, type='track', offset=offs)['tracks']['items']
     songs = []
     for track in tracks_query:
