@@ -34,6 +34,7 @@
  
 - [X] using the spotipy API to get songs from Spotify
 
+```
 def spotify_query(inp,offs = 0):
     tracks_query = sp.search(str(inp), limit=10, type='track', offset=offs)['tracks']['items']    #queries 10 song names to spotify api
     songs = []
@@ -43,7 +44,8 @@ def spotify_query(inp,offs = 0):
         sp_id = track['id']
         songs.append((sp_song,sp_artists,sp_id))
     return songs
-    
+ ```
+
   
 ### 4. Music Recommender
 Now I write a function for a user to input a song and then we give them 10 different recommendations
