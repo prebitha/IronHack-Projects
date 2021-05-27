@@ -29,6 +29,9 @@ We have a credit card dataset and we used Machine Learnings Binary Classificatio
 ## VISUALISATION OF THE DATA :
 The visualisation of the data was done using tableau and you can see it [here](https://public.tableau.com/profile/prebitha.staphney.abraham#!/vizhome/Data-Mid-Bootcamp-Project-Classification2_16207571376970/0?publish=yes)
 
+![2021-05-27 (5)](https://user-images.githubusercontent.com/81169091/119858298-a1d0d100-bf14-11eb-90cd-9548b67652cf.png)
+
+
 **VALIDATION** : Comparing the Models acuracy, AOC , F1 score, Kappa
 
     
