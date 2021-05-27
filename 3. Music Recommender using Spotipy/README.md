@@ -34,10 +34,8 @@
  
 - [X] using the spotipy API to get songs from Spotify
 
-
-   
-    def spotify_query(inp,offs = 0):
-    tracks_query = sp.search(str(inp), limit=10, type='track', offset=offs)['tracks']['items']
+def spotify_query(inp,offs = 0):
+    tracks_query = sp.search(str(inp), limit=10, type='track', offset=offs)['tracks']['items']    #queries 10 song names to spotify api
     songs = []
     for track in tracks_query:
         sp_song = track['name']
