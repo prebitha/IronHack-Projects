@@ -31,7 +31,7 @@
     
     
   **validation**  
-              ![kmeas](https://user-images.githubusercontent.com/81169091/119847695-7e555880-bf0b-11eb-8b54-234061a5f798.png)
+                          ![kmeas](https://user-images.githubusercontent.com/81169091/119847695-7e555880-bf0b-11eb-8b54-234061a5f798.png)
         
 - [X] Put the Dataframe back together.
 
@@ -64,7 +64,7 @@ Hmm yes I do like Chasing After You | Ryan Hurd With Maren Morris
 My Function does have some glitches, I keep working on it and thats why you will find me updating this on a weekly basis.
 
 ok bye !!
-![Alt Text](https://theikondesign.files.wordpress.com/2021/01/1e91b53e-4aab-4d8a-8d6b-8768550e95e9.gif)
+           ![Alt Text](https://theikondesign.files.wordpress.com/2021/01/1e91b53e-4aab-4d8a-8d6b-8768550e95e9.gif)
 
 
 
